@@ -1,0 +1,40 @@
+.recipe {
+    background-color: rgb(114, 236, 65);
+}
+
+.recipe-title,
+.recipe-description,
+.subsection,
+li {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.recipe-title {
+    font-size: 30px;
+}
+
+.subsection {
+    text-decoration: underline;
+}
+
+.summary-title {
+    color: black;
+    font-size: 24px;
+}
+
+.subsection.ingredients {
+    color: rgb(140, 155, 7);
+}
+
+.subsection.procedure {
+    color: rgb(133, 41, 4)
+}
+
+.recipe-description {
+    font-style: italic;
+}
+
+.recipe-description,
+li {
+    font-size: 18px;
+}
